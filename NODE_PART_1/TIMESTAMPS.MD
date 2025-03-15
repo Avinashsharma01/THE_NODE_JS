@@ -1,0 +1,27 @@
+⭐▬▬▬▬▬▬ TIMESTAMPS 👋 ▬▬▬▬▬▬⭐
+
+-   **00:00** Intro & demo
+-   **06:23** Installing Node.js
+-   **09:51** Running JavaScript files with Node.js
+-   **14:25** Node module system
+-   **30:24** Node package manager
+-   **39:09** Path module
+-   **45:25** File system
+-   **57:53** HTTP Module
+-   **01:10:29** Callbacks and callback hell
+-   **01:20:45** Promises
+-   **01:26:24** Async Await
+-   **01:31:35** Event Emitter
+-   **01:39:40** Express.js
+-   **02:13:14** EJS Template engine
+-   **02:28:33** REST API development
+-   **02:59:05** MongoDB and Mongoose basics
+-   **03:40:25** Book store API Development
+-   **04:32:35** Authentication and authorization
+-   **06:01:12** File upload
+-   **06:47:30** Change password, delete image functionality, sorting and pagination
+-   **07:26:03** Intermediate MongoDB concepts & aggregation
+-   **08:15:38** Node.js with Socket
+-   **08:53:14** Deployment strategies
+-   **09:16:43** Node.js with GraphQL
+-   **10:09:50** Node.js with TypeScript
